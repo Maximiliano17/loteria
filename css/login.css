@@ -13,8 +13,8 @@
 }
 
 #container > #form {
-    height: 650px;
-    width: 512px;
+    height: 90%;
+    width: 350px;
     border-radius: 40px;
     display: flex;
     flex-direction: column;
