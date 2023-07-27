@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<head> 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./css/login.css">
-    <title>Loteria</title>
+    <title>Login/Loteria</title>
 </head>
 <body> 
     <div id="container">
@@ -14,7 +14,7 @@
             <input type="password" name="password" id="password" placeholder="Senha">
             <input type="submit" value="Acessar o Sistema">
             <div class="info">
-                <a href="./pages/home.php">Esqueceu sua senha?</a>
+                <a href="./pages/register.php">Esqueceu sua senha?</a>
                 <label for="">
                     <input type="checkbox" name="" id="">
                     Lembrar-me
