@@ -17,12 +17,12 @@
             <h1 id="titulo">SISTEMA da LOTOFACIL</h1>
 
             <ul id="nav-list">
-            <li>  <a href="../home.php">Inicio</a> </li>
-            <li>  <a href="../simuladores.php">Simuladores</a> </li>
-            <li>  <a href="#">Apuestas</a> </li>
-            <li>  <a href="#">Video Llamadas</a> </li>
-            <li>  <a href="#">Tendencias</a> </li>
-            <li>  <a href="#">Resultados</a> </li>
+                <li>  <a href="../home.php">Inicio</a> </li>
+                <li>  <a href="../simuladores.php">Simuladores</a> </li>
+                <li>  <a href="#">Apuestas</a> </li>
+                <li>  <a href="#">Video Llamadas</a> </li>
+                <li>  <a href="#">Tendencias</a> </li>
+                <li>  <a href="#">Resultados</a> </li>
             </ul>
             </nav>
             <div id="home">

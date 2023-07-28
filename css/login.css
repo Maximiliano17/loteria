@@ -19,7 +19,8 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: space-around;
+    justify-content: center;
+    gap:3rem;
     border: 1px solid gray;
     padding: 20px;
     background-color: #fff;
@@ -54,4 +55,16 @@
 #container > #form > .info > a {
     color: orange;
     text-decoration: none;
+}
+
+#logo{
+    width: 90%;
+}
+
+.logo{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }

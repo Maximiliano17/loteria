@@ -7,14 +7,18 @@
     <title>Login/Loteria</title>
 </head>
 <body> 
-    <div id="container">
+    <div id="container">  
         <form action="" id="form">
-            <h1>( Logo )</h1>
+            <div class="logo">
+              <img  id="logo" src="./assets/img/logo.png" alt="Logo" />
+            </div>   
+          
             <input type="text" name="username" id="username" placeholder="Usuario ou E-mail">
             <input type="password" name="password" id="password" placeholder="Senha">
+          
             <input type="submit" value="Acessar o Sistema">
             <div class="info">
-                <a href="./pages/register.php">Esqueceu sua senha?</a>
+                <a href="./pages/home.php">Esqueceu sua senha?</a>
                 <label for="">
                     <input type="checkbox" name="" id="">
                     Lembrar-me

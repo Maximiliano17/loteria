@@ -1,5 +1,5 @@
 <!DOCTYPE html>  
-<html lang="en">
+<html lang="en"> 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,12 +9,14 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=REM:wght@200&display=swap" rel="stylesheet">
-</head>
+</head> 
 <body> 
     <div id="container">
         <nav id="nav">
  
-            <h1 id="titulo">SISTEMA da LOTOFACIL</h1>
+           <div class="logo">
+              <img  id="logo" src="../assets/img/logo.png" alt="Logo" />
+            </div>   
         
           <ul id="nav-list">
             <li>  <a href="#">Inicio</a> </li>

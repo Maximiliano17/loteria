@@ -28,9 +28,9 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background: #693668;
+    background: #000;
 }
-
+ 
 #titulo{
     width: 100%;
     height: 30%;
@@ -39,7 +39,7 @@
     justify-content: center;
     align-items: center;
     text-align: center;
-    color:#fff;
+    color:#C48DE8;
 }
 
 #nav-list{
@@ -61,12 +61,13 @@
 }
 
 #nav-list a{
-    color:white;
+    color:#C48DE8;
+    font-weight: bold;
     text-decoration: none;
 }
 
 #nav-list li:hover{
-    background: rgb(163, 1, 163);
+    background:#f1e9e9;
 }
 
 #home{
@@ -98,6 +99,18 @@
 #home-contenido{
     width: 100%;
     height: calc(100vh - 4rem);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#logo{
+    width: 90%;
+}
+
+.logo{
+    width: 100%;
+    height: 20%;
     display: flex;
     justify-content: center;
     align-items: center;
